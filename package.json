@@ -1,0 +1,28 @@
+{
+  "name": "depressedsite",
+  "version": "1.0.0",
+  "description": "Самый депрессивный сайт, который вы только видели. Давайте будем честны, он правда очень депрессивный.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Username77177/MostDepressedSiteInDaWorld.git"
+  },
+  "keywords": [
+    "depressed",
+    "depressedsite"
+  ],
+  "author": "UsernameLLlLL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Username77177/MostDepressedSiteInDaWorld/issues"
+  },
+  "homepage": "https://github.com/Username77177/MostDepressedSiteInDaWorld#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
